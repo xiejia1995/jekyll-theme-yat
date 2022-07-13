@@ -24,9 +24,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@domain.com
-author: GitHub User
+title: XIE Jia  谢 佳
+email: xiefromcn@gmail.com
+author: XIE Jia
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -146,12 +146,13 @@ yat:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-# header_pages:
-#   - index.html
+header_pages:
+   - index.html
+   - posts.html
 #   - archives.html
 #   - categories.html
 #   - tags.html
-#   - about.md
+   - about.md
 
 # Page default value
 # defaults:
